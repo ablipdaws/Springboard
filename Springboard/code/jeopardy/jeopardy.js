@@ -138,7 +138,7 @@ function hideLoadingView() {
 //  * - get data for each category
 //  * - create HTML table
 //  * */
-
+//
 async function setupAndStart(e) {
   e.preventDefault();
   showLoadingView();
